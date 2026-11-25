@@ -226,6 +226,7 @@
 
 ## Showcase & Inspiration
 
+- [StagePeek](https://stagepeek.live) - Interactive 2D seating charts and custom 3D Three.js concert arena sightlines across 201 global venues (no-login 3D demo).
 - [Awwwards](https://www.awwwards.com/websites/three-js/) - Award-winning Three.js websites.
 - [chrome experiments](https://experiments.withgoogle.com/collection/webgl) - Google's WebGL experiments.
 - [Bruno Simon Portfolio](https://bruno-simon.com) - The legendary Three.js portfolio.
